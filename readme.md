@@ -10,3 +10,5 @@ Proporciona los 16 primeros 16 digitos de la curp del usuario
 Juego de cartas blackjack
 ### Operación rescate
 Dice si algún alumno tiene posibilidad de rescatar el semestre
+### Serpiente
+Juego clásico de la serpiente
