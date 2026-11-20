@@ -17,7 +17,7 @@ def reloj(n, simbolo, vacio):
 
     print()
 
-
+#Dibuja un rombo
 def rombo(n, simbolo, vacio):
     k = int((n-1)/2)
 

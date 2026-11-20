@@ -6,6 +6,7 @@ programa se encuentra en su propia carpeta.
 ## Programas incluidos
 ### CurpClave
 Proporciona los 16 primeros 16 digitos de la curp del usuario
+Descargar el archivo, e ingresar tus datos personales
 ### Juego del blackjack
 Juego de cartas blackjack
 ### Operación rescate
